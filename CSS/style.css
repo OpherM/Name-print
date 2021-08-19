@@ -3,7 +3,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     height: 100vh;
-    background: #333 url('/Stage2/Img/surface.jpg') no-repeat center center / cover;
+    background: #333 url('../Img/surface.jpg') no-repeat center center / cover;
     color: #ccc;
     overflow: hidden;
 }
